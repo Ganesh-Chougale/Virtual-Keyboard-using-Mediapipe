@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment folders
+venv/
+env/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
